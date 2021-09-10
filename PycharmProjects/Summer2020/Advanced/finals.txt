@@ -1,0 +1,325 @@
+Name: Hatice Günday
+Grade: 56.0
+Letter Note: FF
+------------------------------
+Name: Mustafa Akyürek
+Grade: 75.0
+Letter Note: BB
+------------------------------
+Name: Ramazan Topaloğlu
+Grade: 47.0
+Letter Note: FF
+------------------------------
+Name: Elif Akşit
+Grade: 68.0
+Letter Note: CC
+------------------------------
+Name: Mehmet Düşenkalkar
+Grade: 43.0
+Letter Note: FF
+------------------------------
+Name: Hatice Dağdaş
+Grade: 86.0
+Letter Note: BA
+------------------------------
+Name: Merve Tütüncü
+Grade: 33.0
+Letter Note: FF
+------------------------------
+Name: Hatice Pekkan
+Grade: 60.0
+Letter Note: CC
+------------------------------
+Name: Merve Alyanak
+Grade: 51.0
+Letter Note: FF
+------------------------------
+Name: Meryem Aşıkoğlu
+Grade: 58.0
+Letter Note: FF
+------------------------------
+Name: Süleyman Uluhan
+Grade: 55.0
+Letter Note: FF
+------------------------------
+Name: Esra Ekici
+Grade: 18.0
+Letter Note: FF
+------------------------------
+Name: Emine Kumcuoğlu
+Grade: 68.0
+Letter Note: CC
+------------------------------
+Name: Süleyman Kumcuoğlu
+Grade: 42.0
+Letter Note: FF
+------------------------------
+Name: Şerife Kumcuoğlu
+Grade: 61.0
+Letter Note: CC
+------------------------------
+Name: Sude Tekand
+Grade: 78.0
+Letter Note: BB
+------------------------------
+Name: Elif Nebioğlu
+Grade: 30.0
+Letter Note: FF
+------------------------------
+Name: Sude Berberoğlu
+Grade: 53.0
+Letter Note: FF
+------------------------------
+Name: Yasemin Durmaz
+Grade: 37.0
+Letter Note: FF
+------------------------------
+Name: Fadime Akyürek
+Grade: 61.0
+Letter Note: CC
+------------------------------
+Name: Fatma Akşit
+Grade: 66.0
+Letter Note: CC
+------------------------------
+Name: Emre Sözeri
+Grade: 38.0
+Letter Note: FF
+------------------------------
+Name: Yasemin Kurutluoğlu
+Grade: 43.0
+Letter Note: FF
+------------------------------
+Name: Fatma Akman
+Grade: 42.0
+Letter Note: FF
+------------------------------
+Name: Hacer Korol
+Grade: 75.0
+Letter Note: BB
+------------------------------
+Name: Recep Altınbaş
+Grade: 65.0
+Letter Note: CC
+------------------------------
+Name: Murat Numanoğlu
+Grade: 91.0
+Letter Note: BA
+------------------------------
+Name: Fatih Fahri
+Grade: 19.0
+Letter Note: FF
+------------------------------
+Name: Halil Sarıoğlu
+Grade: 54.0
+Letter Note: FF
+------------------------------
+Name: Merve Arıcan
+Grade: 46.0
+Letter Note: FF
+------------------------------
+Name: İsmail Kaplangı
+Grade: 37.0
+Letter Note: FF
+------------------------------
+Name: Emir Egeli
+Grade: 62.0
+Letter Note: CC
+------------------------------
+Name: Havva Erbulak
+Grade: 44.0
+Letter Note: FF
+------------------------------
+Name: Hacer Okumuş
+Grade: 79.0
+Letter Note: BB
+------------------------------
+Name: Salih Ağaoğlu
+Grade: 22.0
+Letter Note: FF
+------------------------------
+Name: Zeliha Ağaoğlu
+Grade: 66.0
+Letter Note: CC
+------------------------------
+Name: Abdullah Solmaz
+Grade: 50.0
+Letter Note: FF
+------------------------------
+Name: Fatih Elmastaşoğlu
+Grade: 36.0
+Letter Note: FF
+------------------------------
+Name: Hacer Karaer
+Grade: 78.0
+Letter Note: BB
+------------------------------
+Name: Sude Kumcuoğlu
+Grade: 36.0
+Letter Note: FF
+------------------------------
+Name: Abdullah Kuzucu
+Grade: 58.0
+Letter Note: FF
+------------------------------
+Name: Hanife Söyler
+Grade: 68.0
+Letter Note: CC
+------------------------------
+Name: Sude Orbay
+Grade: 43.0
+Letter Note: FF
+------------------------------
+Name: Sultan Uluç
+Grade: 66.0
+Letter Note: CC
+------------------------------
+Name: Hanife Beşok
+Grade: 74.0
+Letter Note: CC
+------------------------------
+Name: Hülya Karadaş
+Grade: 58.0
+Letter Note: FF
+------------------------------
+Name: Fatma Tuğluk
+Grade: 44.0
+Letter Note: FF
+------------------------------
+Name: Halil Güçlü
+Grade: 66.0
+Letter Note: CC
+------------------------------
+Name: Recep Eronat
+Grade: 56.0
+Letter Note: FF
+------------------------------
+Name: Büşra Koyuncu
+Grade: 67.0
+Letter Note: CC
+------------------------------
+Name: Hüseyin Kunt
+Grade: 43.0
+Letter Note: FF
+------------------------------
+Name: Halil Numanoğlu
+Grade: 55.0
+Letter Note: FF
+------------------------------
+Name: Hülya Gürmen
+Grade: 66.0
+Letter Note: CC
+------------------------------
+Name: Ömer Kulaksızoğlu
+Grade: 48.0
+Letter Note: FF
+------------------------------
+Name: Zeliha Demirel
+Grade: 73.0
+Letter Note: CC
+------------------------------
+Name: Mustafa Aşıkoğlu
+Grade: 75.0
+Letter Note: BB
+------------------------------
+Name: Süleyman Orbay
+Grade: 75.0
+Letter Note: BB
+------------------------------
+Name: İbrahim Erez
+Grade: 49.0
+Letter Note: FF
+------------------------------
+Name: Süleyman Koçyiğit
+Grade: 57.0
+Letter Note: FF
+------------------------------
+Name: Salih Orbay
+Grade: 33.0
+Letter Note: FF
+------------------------------
+Name: Şerife Süleymanoğlu
+Grade: 73.0
+Letter Note: CC
+------------------------------
+Name: Murat Adal
+Grade: 70.0
+Letter Note: CC
+------------------------------
+Name: Osman Aybar
+Grade: 61.0
+Letter Note: CC
+------------------------------
+Name: Sude Balcı
+Grade: 37.0
+Letter Note: FF
+------------------------------
+Name: Zeynep Koyuncu
+Grade: 62.0
+Letter Note: CC
+------------------------------
+Name: İbrahim Pekkan
+Grade: 33.0
+Letter Note: FF
+------------------------------
+Name: Fatih Erdoğan
+Grade: 39.0
+Letter Note: FF
+------------------------------
+Name: Abdullah Ekşioğlu
+Grade: 34.0
+Letter Note: FF
+------------------------------
+Name: Osman Adan
+Grade: 56.0
+Letter Note: FF
+------------------------------
+Name: Ramazan Paksüt
+Grade: 41.0
+Letter Note: FF
+------------------------------
+Name: Halil Gökgöz
+Grade: 35.0
+Letter Note: FF
+------------------------------
+Name: Emre Kurutluoğlu
+Grade: 85.0
+Letter Note: BA
+------------------------------
+Name: Mahmut Akışık
+Grade: 44.0
+Letter Note: FF
+------------------------------
+Name: Yusuf Hamzaoğlu
+Grade: 78.0
+Letter Note: BB
+------------------------------
+Name: Ali Akan
+Grade: 86.0
+Letter Note: BA
+------------------------------
+Name: Zeliha Beşerler
+Grade: 62.0
+Letter Note: CC
+------------------------------
+Name: Ali Oraloğlu
+Grade: 48.0
+Letter Note: FF
+------------------------------
+Name: Hanife Poçan
+Grade: 49.0
+Letter Note: FF
+------------------------------
+Name: Ayşe Kurutluoğlu
+Grade: 50.0
+Letter Note: FF
+------------------------------
+Name: Fatih Akman
+Grade: 57.0
+Letter Note: FF
+------------------------------
+Name: Mehmet Babacan
+Grade: 63.0
+Letter Note: CC
+------------------------------
+Average is: 55.135802469135804
