@@ -117,5 +117,5 @@ if final <= 45:
 elif ortalama < 40:
     print("Tebrikler yine kaldınız ama bu kez ortalama ile")
 else:
-    print("Bravo amk geçtiniz!\n Ortalamanız: ()".format(ortalama))
+    print("Bravo geçtiniz!\n Ortalamanız: ()".format(ortalama))
 
